@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.timerflex{
+    color: #fff;
+    padding: 3vh;
+    font-size: clamp(20px,1.6vw,18px);
+    font-weight: 600;
+    line-height: 14px;
+    width: 100%;
+    background: lightskyblue;
+}
+  
+
